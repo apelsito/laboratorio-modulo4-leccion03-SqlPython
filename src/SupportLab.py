@@ -99,3 +99,29 @@ def geopy_search(municipios_to_search,df_municipios_to_change):
     df_municipios = pd.DataFrame(municipios_geolocalizados)
     df_municipios_to_change = pd.concat([df_municipios_to_change,df_municipios],axis=0)
     return df_municipios_to_change
+
+def obtain_municipio_id(df_to_modify,df_to_dict):
+    diccionario = {}
+    datos = df_to_dict.groupby("municipio")["index"].first()
+    indices_cielo = list(datos.index)
+    lista_estados = list(datos.values)
+    for i in range(0, len(indices_cielo)):
+        diccionario[indices_cielo[i]] = lista_estados[i]    
+    
+    #Ponemos cada valor según el diccionario
+    df_to_modify["indice_municipio"] = df_to_modify["municipio"].map(diccionario)
+    
+    return df_to_modify
+
+def obtain_categoria_id(df_to_modify,df_to_dict):
+    diccionario = {}
+    datos = df_to_dict.groupby("categoria")["index"].first()
+    indices_cielo = list(datos.index)
+    lista_estados = list(datos.values)
+    for i in range(0, len(indices_cielo)):
+        diccionario[indices_cielo[i]] = lista_estados[i]    
+    
+    #Ponemos cada valor según el diccionario
+    df_to_modify["indice_categoria"] = df_to_modify["category"].map(diccionario)
+    
+    return df_to_modify
