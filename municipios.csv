@@ -1,0 +1,180 @@
+"id_municipio","nombre","latitud","longitud"
+1,La Acebeda,41.086958,-3.624399
+2,Ajalvir,40.534230,-3.480782
+3,Alameda del Valle,40.917718,-3.843822
+4,El Álamo,40.230730,-3.990589
+5,Alcalá de Henares,40.481840,-3.364497
+6,Alcobendas,40.540008,-3.635849
+7,Alcorcón,40.349300,-3.828430
+8,Aldea del Fresno,40.321521,-4.199360
+9,Algete,40.596165,-3.497425
+10,Alpedrete,40.659901,-4.025122
+11,Ambite,40.328972,-3.181212
+12,Anchuelo,40.465386,-3.268920
+13,Aranjuez,40.032210,-3.603960
+14,Arganda del Rey,40.300771,-3.438069
+15,Arroyomolinos,39.185599,-6.163063
+16,El Atazar,40.934349,-3.471092
+17,Batres,40.209139,-3.921595
+18,Becerril de la Sierra,40.716337,-3.989068
+19,Belmonte de Tajo,40.133631,-3.339865
+20,El Berrueco,40.888971,-3.561434
+21,Berzosa del Lozoya,40.975780,-3.523674
+22,Boadilla del Monte,40.405349,-3.876466
+23,El Boalo,40.717336,-3.920220
+24,Braojos,41.040012,-3.642589
+25,Brea de Tajo,40.230213,-3.109254
+26,Brunete,40.405050,-3.997991
+27,Buitrago del Lozoya,40.995348,-3.635050
+28,Bustarviejo,40.858777,-3.709763
+29,Cabanillas de la Sierra,40.821609,-3.625974
+30,Cadalso de los Vidrios,40.301428,-4.440888
+31,Camarma de Esteruelas,40.549037,-3.378621
+32,Campo Real,40.338188,-3.381391
+33,Canencia,40.909589,-3.737561
+34,Carabaña,40.256626,-3.234721
+35,Casarrubuelos,40.170780,-3.830853
+36,Cenicientos,40.263189,-4.466980
+37,Cercedilla,40.741293,-4.055800
+38,Cervera de Buitrago,40.921132,-3.529340
+39,Chapinería,40.379164,-4.209725
+40,Chinchón,40.140829,-3.423147
+41,Ciempozuelos,40.158009,-3.620551
+42,Cobeña,40.567608,-3.504857
+43,Collado Mediano,40.694371,-4.024721
+44,Collado Villalba,40.643150,-3.993013
+45,Colmenar del Arroyo,40.418000,-4.197277
+46,Colmenar de Oreja,40.107420,-3.387163
+47,Colmenarejo,40.560726,-4.016525
+48,Colmenar Viejo,40.658773,-3.765972
+49,Corpa,40.423537,-3.265248
+50,Coslada,40.423802,-3.555288
+51,Cubas de la Sagra,40.190835,-3.837837
+52,Daganzo de Arriba,40.545195,-3.457850
+53,Real Monasterio de San Lorenzo de El Escorial,40.589066,-4.147395
+54,Estremera,40.184731,-3.106240
+55,Fresnedillas de la Oliva,40.486444,-4.172349
+56,Fresno de Torote,40.592268,-3.411968
+57,Fuenlabrada,40.282476,-3.792342
+58,Fuente el Saz de Jarama,40.631215,-3.512592
+59,Fuentidueña de Tajo,40.118545,-3.160254
+60,Galapagar,40.577499,-4.003775
+61,Garganta de los Montes,40.921608,-3.686655
+62,Gargantilla del Lozoya y Pinilla de Buitrago,40.965515,-3.707791
+63,Gascones,41.018565,-3.641499
+64,Getafe,40.307064,-3.733181
+65,Griñón,40.213661,-3.858148
+66,Guadalix de la Sierra,40.782238,-3.700779
+67,Guadarrama,40.673445,-4.089391
+68,La Hiruela,41.077922,-3.455293
+69,Horcajo de la Sierra-Aoslos,41.078683,-3.583902
+70,Horcajuelo de la Sierra,41.060115,-3.545739
+71,Hoyo de Manzanares,40.622733,-3.907205
+72,Humanes de Madrid,40.250885,-3.827100
+73,Loeches,40.383790,-3.409228
+74,Lozoya,40.951328,-3.791708
+75,Lozoyuela-Navas-Sieteiglesias,40.926338,-3.617638
+76,Madarcos,41.047731,-3.582155
+77,Madrid,40.416705,-3.703583
+78,Majadahonda,40.473055,-3.872414
+79,Manzanares el Real,40.726763,-3.864981
+80,Meco,40.553746,-3.328156
+81,Mejorada del Campo,40.397179,-3.489607
+82,Miraflores de la Sierra,40.813753,-3.766724
+83,El Molar,40.734787,-3.584376
+84,Montejo de la Sierra,41.059353,-3.530299
+85,Moraleja de Enmedio,40.261553,-3.861212
+86,Moralzarzal,40.679144,-3.972099
+87,Morata de Tajuña,40.229430,-3.436693
+88,Móstoles,40.323853,-3.864921
+89,Navacerrada,40.728793,-4.015168
+90,Navalafuente,40.823262,-3.674729
+91,Navalagamella,40.469059,-4.122708
+92,Navalcarnero,40.287717,-4.014299
+93,Navarredonda y San Mamés,41.007366,-3.731505
+94,Navas del Rey,40.386367,-4.250840
+95,Nuevo Baztán,40.365926,-3.244310
+96,Olmeda de las Fuentes,40.369523,-3.221320
+97,Orusco de Tajuña,40.285341,-3.209652
+98,Paracuellos de Jarama,40.504853,-3.531762
+99,Parla,40.237395,-3.771890
+100,Patones,40.854819,-3.483954
+101,Pedrezuela,40.745109,-3.603019
+102,Pelayos de la Presa,40.360527,-4.333425
+103,Perales de Tajuña,40.232572,-3.351727
+104,Pezuela de las Torres,40.418648,-3.177803
+105,Pinilla del Valle,40.926195,-3.818468
+106,Pinto,40.240985,-3.700507
+107,Piñuécar-Gandullas,41.035546,-3.599476
+108,Pozuelo de Alarcón,40.434653,-3.814834
+109,Pozuelo del Rey,40.366406,-3.320008
+110,Prádena del Rincón,41.044337,-3.540228
+111,Puebla de la Sierra,41.012125,-3.444437
+112,Manjirón,40.965404,-3.582876
+113,Quijorna,40.429083,-4.056538
+114,Rascafría,40.903887,-3.880285
+115,Redueña,40.815805,-3.603931
+116,Ribatejada,40.666495,-3.391918
+117,Rivas-Vaciamadrid,40.353605,-3.531088
+118,Robledillo de la Jara,40.952915,-3.525050
+119,Robledo de Chavela,40.500920,-4.238100
+120,Robregordo,41.106452,-3.593747
+121,Las Rozas de Madrid,40.493310,-3.875840
+122,Rozas de Puerto Real,40.309835,-4.491211
+123,San Agustín del Guadalix,40.679051,-3.616600
+124,San Fernando de Henares,40.424855,-3.535037
+125,San Lorenzo de El Escorial,40.592667,-4.147164
+126,San Martín de la Vega,40.211046,-3.577181
+127,San Martín de Valdeiglesias,40.362500,-4.398650
+128,San Sebastián de los Reyes,40.547370,-3.626059
+129,Santa María de la Alameda,40.595825,-4.257921
+130,Santorcaz,40.471579,-3.233559
+131,Los Santos de la Humosa,40.501296,-3.256680
+132,La Serna del Monte,41.030579,-3.625264
+133,Serranillos del Valle,40.204451,-3.885199
+134,Sevilla la Nueva,40.347542,-4.027527
+135,Somosierra,41.133207,-3.581478
+136,Soto del Real,40.753443,-3.786657
+137,Talamanca de Jarama,40.745463,-3.512737
+138,Tielmes,40.246501,-3.313621
+139,Titulcia,40.137915,-3.570998
+140,Torrejón de Ardoz,40.458777,-3.479334
+141,Torrejón de la Calzada,40.200680,-3.799330
+142,Torrejón de Velasco,40.186928,-3.776907
+143,Torrelaguna,40.827727,-3.538293
+144,Torrelodones,40.576281,-3.928603
+145,Torremocha de Jarama,40.835811,-3.496687
+146,Torres de la Alameda,40.402152,-3.360625
+147,Tres Cantos,40.606583,-3.706533
+148,Valdaracete,40.210770,-3.195476
+149,Valdeavero,40.630975,-3.332937
+150,Valdelaguna,40.160578,-3.367827
+151,Valdemanco,40.873664,-3.663695
+152,Valdemaqueda,40.511030,-4.297773
+153,Valdemorillo,40.501677,-4.068888
+154,Valdemoro,40.188860,-3.671430
+155,Valdeolmos-Alalpardo,40.638543,-3.453244
+156,Valdepiélagos,40.761014,-3.465625
+157,Valdetorres de Jarama,40.695648,-3.514656
+158,Valdilecha,40.292685,-3.300210
+159,Valverde de Alcalá,40.418036,-3.299678
+160,Velilla de San Antonio,40.367166,-3.487444
+161,El Vellón,40.767797,-3.582010
+162,Venturada,40.798526,-3.620737
+163,Villaconejos,40.104008,-3.485028
+164,Villa del Prado,40.276475,-4.304803
+165,Villalbilla,40.432367,-3.298782
+166,Villamanrique de Tajo,40.068697,-3.240078
+167,Villamanta,40.299094,-4.109040
+168,Villamantilla,40.342103,-4.130030
+169,Villanueva de la Cañada,40.447211,-4.002795
+170,Villanueva del Pardillo,40.494923,-3.960007
+171,Villanueva de Perales,40.346607,-4.101262
+172,Villar del Olmo,40.336447,-3.235562
+173,Villarejo de Salvanés,40.168358,-3.273876
+174,Villaviciosa de Odón,40.357379,-3.900233
+175,Villavieja del Lozoya,41.006362,-3.671629
+176,Zarzalejo,40.548302,-4.181590
+177,La Cabrera,40.865174,-3.612547
+178,Leganés,40.328194,-3.765270
+179,Los Molinos,40.714702,-4.073393
